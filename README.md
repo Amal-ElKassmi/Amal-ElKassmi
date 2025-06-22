@@ -10,13 +10,24 @@
 
 ---
 
-## 🌱 I'm currently learning
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://github.com/Amal-ElKassmi/Amal-ElKassmi/assets/0d09803c-9903-4744-8ed8-dc208148d370/fdfc0abd-87da-42e9-b7d4-65413a1630e8.png" alt="Girl thinking" width="100%">
+    </td>
+    <td>
+      
+### 🌱 I'm currently learning
 
-- **Frontend:** React JS, Angular, TypeScript, JavaScript, HTML, CSS, Flutter
-- **Backend:** Node.js, Laravel, Spring Boot, JEE
-- **Mobile:** Android (Java), Flutter
-- **Design:** UI/UX, Figma
+- **Frontend:** React JS, Angular, TypeScript, JavaScript, HTML, CSS, Flutter  
+- **Backend:** Node.js, Laravel, Spring Boot, JEE  
+- **Mobile:** Android (Java), Flutter  
+- **Design:** UI/UX, Figma  
 - **Others:** UML, Python, Machine Learning
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,24 +56,25 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular"/>
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Laravel-darkred?style=flat-square&logo=laravel"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-darkgreen?style=flat-square&logo=spring"/>
-  <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma"/>
-  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="60" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
 </p>
+
 
 ---
 
