@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28618778-4764-4d05-82ae-8fb9c5b214d7" alt="Amal ElKassmi Banner" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/9b42f903-3be6-41c2-87e1-93193511eb0f" alt="Amal ElKassmi Banner" width="80%"/>
 </p>
 
 <p align="center">💻 A passionate full stack web developer</p>
