@@ -1,4 +1,7 @@
-<h1 align="center">Hi everyone 👋, I'm Amal ElKassmi</h1>
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/123456789/your-image-name.png](https://github.com/user-attachments/assets/28618778-4764-4d05-82ae-8fb9c5b214d7)" alt="Amal ElKassmi Banner" width="80%"/>
+</p>
+
 <p align="center">💻 A passionate full stack web developer</p>
 
 <p align="center">
