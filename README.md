@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi everyone 👋, I'm Amal ElKassmi</h1>
+<p align="center">💻 A passionate full stack web developer</p>
 
-<!--
-**Amal-ElKassmi/Amal-ElKassmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amal-ElKassmi&label=Profile%20views&color=0e75b6&style=flat" alt="Amal-ElKassmi" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning
+- **Spring Boot Framework**
+- **Machine Learning**
+
+### 💬 Ask me about
+- Spring Boot
+- Testing
+- Java / Python / React
+
+### 📫 How to reach me
+- **amal.elkassmi.dev@gmail.com**
+
+---
+
+## 🚀 Connect with me
+<p align="left">
+  <a href="mailto:amal.elkassmi.dev@gmail.com"><img src="https://img.shields.io/badge/email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ton-lien-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-darkgreen?style=flat-square&logo=spring"/>
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amal-ElKassmi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-ElKassmi&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amal-ElKassmi&theme=darkhub&column=8" />
+</p>
