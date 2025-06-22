@@ -24,7 +24,7 @@
 
     </td>
       <td width="30%">
-      <img src="https://github.com/user-attachments/assets/aebecc06-0cd1-4ae0-8f71-bc9e7c3d9666" alt="Girl thinking" width="100%">
+      <img src="https://github.com/user-attachments/assets/6c648ede-abfa-4fc2-85b9-c45fd3104a5e" alt="Girl thinking" width="100%">
     </td>
   </tr>
 </table>
