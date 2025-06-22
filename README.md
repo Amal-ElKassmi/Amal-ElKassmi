@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0d09803c-9903-4744-8ed8-dc208148d370" alt="Amal ElKassmi Banner" width="80%"/>
 </p>
 
-<p align="center">A passionate full stack web developer & UI/UX Designer</p>
+<p align="center"> full stack web developer & UI/UX Designer</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amal-ElKassmi&label=Profile%20views&color=0e75b6&style=flat" alt="Amal-ElKassmi" />
