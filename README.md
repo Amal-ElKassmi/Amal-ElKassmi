@@ -12,9 +12,6 @@
 
 <table>
   <tr>
-    <td width="30%">
-      <img src="https://github.com/Amal-ElKassmi/Amal-ElKassmi/assets/0d09803c-9903-4744-8ed8-dc208148d370/fdfc0abd-87da-42e9-b7d4-65413a1630e8.png" alt="Girl thinking" width="100%">
-    </td>
     <td>
       
 ### 🌱 I'm currently learning
@@ -25,6 +22,9 @@
 - **Design:** UI/UX, Figma  
 - **Others:** UML, Python, Machine Learning
 
+    </td>
+      <td width="30%">
+      <img src="https://github.com/user-attachments/assets/aebecc06-0cd1-4ae0-8f71-bc9e7c3d9666" alt="Girl thinking" width="100%">
     </td>
   </tr>
 </table>
